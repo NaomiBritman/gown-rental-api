@@ -1,0 +1,52 @@
+H:\פרויקט סטאז\GownRental\Dal\bin\Debug\net8.0\Dal.deps.json
+H:\פרויקט סטאז\GownRental\Dal\bin\Debug\net8.0\Dal.dll
+H:\פרויקט סטאז\GownRental\Dal\bin\Debug\net8.0\Dal.pdb
+H:\פרויקט סטאז\GownRental\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט סטאז\GownRental\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+H:\פרויקט סטאז\GownRental\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+H:\פרויקט סטאז\GownRental\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+H:\פרויקט סטאז\GownRental\Dal\obj\Debug\net8.0\Dal.dll
+H:\פרויקט סטאז\GownRental\Dal\obj\Debug\net8.0\refint\Dal.dll
+H:\פרויקט סטאז\GownRental\Dal\obj\Debug\net8.0\Dal.pdb
+H:\פרויקט סטאז\GownRental\Dal\obj\Debug\net8.0\ref\Dal.dll
+S:\GownRental\Dal\bin\Debug\net8.0\Dal.deps.json
+S:\GownRental\Dal\bin\Debug\net8.0\Dal.dll
+S:\GownRental\Dal\bin\Debug\net8.0\Dal.pdb
+S:\GownRental\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+S:\GownRental\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+S:\GownRental\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+S:\GownRental\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+S:\GownRental\Dal\obj\Debug\net8.0\Dal.dll
+S:\GownRental\Dal\obj\Debug\net8.0\refint\Dal.dll
+S:\GownRental\Dal\obj\Debug\net8.0\Dal.pdb
+S:\GownRental\Dal\obj\Debug\net8.0\ref\Dal.dll
+H:\PROJECT C#\GownRental\GownRental\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+H:\PROJECT C#\GownRental\GownRental\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\PROJECT C#\GownRental\GownRental\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+H:\PROJECT C#\GownRental\GownRental\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+H:\PROJECT C#\GownRental\GownRental\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+H:\PROJECT C#\GownRental\GownRental\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+H:\PROJECT C#\GownRental\GownRental\Dal\obj\Debug\net8.0\Dal.dll
+H:\PROJECT C#\GownRental\GownRental\Dal\obj\Debug\net8.0\refint\Dal.dll
+H:\PROJECT C#\GownRental\GownRental\Dal\obj\Debug\net8.0\Dal.pdb
+H:\PROJECT C#\GownRental\GownRental\Dal\bin\Debug\net8.0\Dal.deps.json
+H:\PROJECT C#\GownRental\GownRental\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+H:\PROJECT C#\GownRental\GownRental\Dal\bin\Debug\net8.0\Dal.dll
+H:\PROJECT C#\GownRental\GownRental\Dal\bin\Debug\net8.0\Dal.pdb
+H:\PROJECT C#\GownRental\GownRental\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+H:\PROJECT C#\GownRental\GownRental\Dal\obj\Debug\net8.0\ref\Dal.dll
+H:\GownRental\Dal\bin\Debug\net8.0\Dal.deps.json
+H:\GownRental\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+H:\GownRental\Dal\bin\Debug\net8.0\Dal.dll
+H:\GownRental\Dal\bin\Debug\net8.0\Dal.pdb
+H:\GownRental\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+H:\GownRental\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\GownRental\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+H:\GownRental\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+H:\GownRental\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+H:\GownRental\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+H:\GownRental\Dal\obj\Debug\net8.0\Dal.dll
+H:\GownRental\Dal\obj\Debug\net8.0\refint\Dal.dll
+H:\GownRental\Dal\obj\Debug\net8.0\Dal.pdb
+H:\GownRental\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+H:\GownRental\Dal\obj\Debug\net8.0\ref\Dal.dll

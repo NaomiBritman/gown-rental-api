@@ -1,0 +1,68 @@
+H:\פרויקט סטאז\GownRental\Bl\bin\Debug\net8.0\Bl.deps.json
+H:\פרויקט סטאז\GownRental\Bl\bin\Debug\net8.0\Bl.dll
+H:\פרויקט סטאז\GownRental\Bl\bin\Debug\net8.0\Bl.pdb
+H:\פרויקט סטאז\GownRental\Bl\bin\Debug\net8.0\Dal.dll
+H:\פרויקט סטאז\GownRental\Bl\bin\Debug\net8.0\Dal.pdb
+H:\פרויקט סטאז\GownRental\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+H:\פרויקט סטאז\GownRental\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט סטאז\GownRental\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+H:\פרויקט סטאז\GownRental\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+H:\פרויקט סטאז\GownRental\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+H:\פרויקט סטאז\GownRental\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+H:\פרויקט סטאז\GownRental\Bl\obj\Debug\net8.0\Bl.dll
+H:\פרויקט סטאז\GownRental\Bl\obj\Debug\net8.0\refint\Bl.dll
+H:\פרויקט סטאז\GownRental\Bl\obj\Debug\net8.0\Bl.pdb
+H:\פרויקט סטאז\GownRental\Bl\obj\Debug\net8.0\ref\Bl.dll
+S:\GownRental\Bl\bin\Debug\net8.0\Bl.deps.json
+S:\GownRental\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+S:\GownRental\Bl\bin\Debug\net8.0\Bl.dll
+S:\GownRental\Bl\bin\Debug\net8.0\Bl.pdb
+S:\GownRental\Bl\bin\Debug\net8.0\Dal.dll
+S:\GownRental\Bl\bin\Debug\net8.0\Dal.pdb
+S:\GownRental\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+S:\GownRental\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+S:\GownRental\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+S:\GownRental\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+S:\GownRental\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+S:\GownRental\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+S:\GownRental\Bl\obj\Debug\net8.0\Bl.dll
+S:\GownRental\Bl\obj\Debug\net8.0\refint\Bl.dll
+S:\GownRental\Bl\obj\Debug\net8.0\Bl.pdb
+S:\GownRental\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+S:\GownRental\Bl\obj\Debug\net8.0\ref\Bl.dll
+H:\PROJECT C#\GownRental\GownRental\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+H:\PROJECT C#\GownRental\GownRental\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+H:\PROJECT C#\GownRental\GownRental\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+H:\PROJECT C#\GownRental\GownRental\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+H:\PROJECT C#\GownRental\GownRental\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+H:\PROJECT C#\GownRental\GownRental\Bl\obj\Debug\net8.0\Bl.sourcelink.json
+H:\PROJECT C#\GownRental\GownRental\Bl\obj\Debug\net8.0\Bl.dll
+H:\PROJECT C#\GownRental\GownRental\Bl\obj\Debug\net8.0\refint\Bl.dll
+H:\PROJECT C#\GownRental\GownRental\Bl\obj\Debug\net8.0\Bl.pdb
+H:\PROJECT C#\GownRental\GownRental\Bl\bin\Debug\net8.0\Bl.deps.json
+H:\PROJECT C#\GownRental\GownRental\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+H:\PROJECT C#\GownRental\GownRental\Bl\bin\Debug\net8.0\Bl.dll
+H:\PROJECT C#\GownRental\GownRental\Bl\bin\Debug\net8.0\Bl.pdb
+H:\PROJECT C#\GownRental\GownRental\Bl\bin\Debug\net8.0\Dal.dll
+H:\PROJECT C#\GownRental\GownRental\Bl\bin\Debug\net8.0\Dal.pdb
+H:\PROJECT C#\GownRental\GownRental\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+H:\PROJECT C#\GownRental\GownRental\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+H:\PROJECT C#\GownRental\GownRental\Bl\obj\Debug\net8.0\ref\Bl.dll
+H:\GownRental\Bl\bin\Debug\net8.0\Bl.deps.json
+H:\GownRental\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+H:\GownRental\Bl\bin\Debug\net8.0\Bl.dll
+H:\GownRental\Bl\bin\Debug\net8.0\Bl.pdb
+H:\GownRental\Bl\bin\Debug\net8.0\Dal.dll
+H:\GownRental\Bl\bin\Debug\net8.0\Dal.pdb
+H:\GownRental\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+H:\GownRental\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+H:\GownRental\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+H:\GownRental\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+H:\GownRental\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+H:\GownRental\Bl\obj\Debug\net8.0\Bl.sourcelink.json
+H:\GownRental\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+H:\GownRental\Bl\obj\Debug\net8.0\Bl.dll
+H:\GownRental\Bl\obj\Debug\net8.0\refint\Bl.dll
+H:\GownRental\Bl\obj\Debug\net8.0\Bl.pdb
+H:\GownRental\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+H:\GownRental\Bl\obj\Debug\net8.0\ref\Bl.dll

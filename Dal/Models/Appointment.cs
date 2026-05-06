@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Dal.Models;
+
+public partial class Appointment
+{
+    public int Id { get; set; }
+
+    public DateOnly Date { get; set; }
+
+    public string CustomerId { get; set; } = null!;
+
+    public TimeOnly Hour { get; set; }
+
+    public int? NumberOfPeople { get; set; }
+    public bool? IsAvailable { get; set; } = false;
+
+    public virtual Customer Customer { get; set; } = null!;
+
+  
+}

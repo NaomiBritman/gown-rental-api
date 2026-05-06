@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\GownRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{500F9A90-A24F-41C8-B749-8BA789E2FB0F}|Dal\\Dal.csproj|h:\\gownrental\\dal\\models\\gownmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500F9A90-A24F-41C8-B749-8BA789E2FB0F}|Dal\\Dal.csproj|solutionrelative:dal\\models\\gownmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/H__GOWNRENTAL_DAL_DATABASE_DB.MDF/True/SqlTable/dbo.Appointment.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GownModel.cs",
+              "DocumentMoniker": "H:\\GownRental\\Dal\\Models\\GownModel.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\GownModel.cs",
+              "ToolTip": "H:\\GownRental\\Dal\\Models\\GownModel.cs",
+              "RelativeToolTip": "Dal\\Models\\GownModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T12:14:58.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Appointment.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/H__GOWNRENTAL_DAL_DATABASE_DB.MDF/True/SqlTable/dbo.Appointment.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/H__GOWNRENTAL_DAL_DATABASE_DB.MDF/True/SqlTable/dbo.Appointment.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-06T12:10:52.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
